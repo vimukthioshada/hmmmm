@@ -1,0 +1,19 @@
+{
+  "name": "youtube-audio-player",
+  "version": "1.0.0",
+  "description": "YouTube Audio Streaming Backend using yt-dlp and Express.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "keywords": ["youtube", "audio", "streaming", "yt-dlp", "express"],
+  "author": "Your Name",
+  "license": "MIT"
+}
